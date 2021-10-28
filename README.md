@@ -4,8 +4,8 @@
 ### Membuat paragraf
 Python adalah salah satu bahasa pemograman yang mudah dipelajari.
 
-Berikut ini adalah tampilan python
-![Gambar 1](http://github.com/Indirarully/Praktik1.py/Screenshot/ss2.png)
+Berikut ini adalah tampilan python nya
+![Gambar 1](Screenshot/ss2.png)
 
 Dan ini pseudocodenya
 ![Gambar 2](screenshot/ss1.png)
