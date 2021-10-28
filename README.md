@@ -1,6 +1,8 @@
 # Praktik1.py
 ## Belajar menggunakan Python
 
+### Membuat paragraf
+Python adalah salah satu bahasa pemograman yang mudah dipelajari.
 Berikut ini adalah tampilan python
 ![Gambar 1](Praktik1.py/screenshot/ss2.png)
 
